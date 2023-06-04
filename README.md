@@ -27,7 +27,7 @@ To run this project, you need a web browser installed on your machine. It has be
 </ul>
 
  <h1>Screenshots</h1>
-   <img src="Accordion.png">
+   <img src="Accordion.jpg">
  
   <h1>How to use</h1>
   Click on any question to reveal its answer. You can only have one answer open at a time - when you click on another question, the currently open answer will be closed.
