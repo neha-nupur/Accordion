@@ -27,8 +27,8 @@ To run this project, you need a web browser installed on your machine. It has be
 </ul>
 
 ## Screenshots
-   <img src="Accordion.png" alt="Accordion">
- 
+ ![Accordion](https://github.com/neha-nupur/Accordion/assets/110279038/d685e723-8c7f-4cab-acf6-3af817c7ae68)
+
 ## How to use
   Click on any question to reveal its answer. You can only have one answer open at a time - when you click on another question, the currently open answer will be closed.
    
